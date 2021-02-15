@@ -1,5 +1,6 @@
 import firebase, { FirebaseContext } from '../firebase';
 import useAutenticacion from '../hooks/useAutenticacion';
+
 import '../styles/globals.css';
 
 function MyApp({ Component, pageProps }) {
