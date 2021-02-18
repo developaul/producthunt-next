@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useContext } from 'react';
+import React, { useEffect, useState, useContext, useRef } from 'react';
 
 import Layout from '../components/layout/Layout';
 import DetallesProducto from '../components/layout/DetallesProducto';
